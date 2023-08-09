@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PlanoOperadora",
+            "request": "launch",
+            "mainClass": "PlanoOperadora",
+            "projectName": "Exercicios-Java-Dio_2b12bd53"
+        },
+        {
+            "type": "java",
             "name": "ResultadoEscolar",
             "request": "launch",
             "mainClass": "ResultadoEscolar",
