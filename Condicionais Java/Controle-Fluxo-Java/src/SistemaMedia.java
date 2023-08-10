@@ -2,7 +2,7 @@
 public class SistemaMedia {
     public static void main(String[] args) {
 
-        String sigla = "A";
+        String sigla = "M";
 
         switch (sigla) {
             case "P": {
@@ -18,7 +18,7 @@ public class SistemaMedia {
                 break;
             }
             default:
-                break;
+                System.out.println("Indefinido");
         }
     }
 }
