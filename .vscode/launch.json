@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploDoWhile",
+            "request": "launch",
+            "mainClass": "ExemploDoWhile",
+            "projectName": "Exercicios-Java-Dio_2b12bd53"
+        },
+        {
+            "type": "java",
+            "name": "ExemploWhile",
+            "request": "launch",
+            "mainClass": "ExemploWhile",
+            "projectName": "Exercicios-Java-Dio_2b12bd53"
+        },
+        {
+            "type": "java",
             "name": "SistemaMedia",
             "request": "launch",
             "mainClass": "SistemaMedia",
